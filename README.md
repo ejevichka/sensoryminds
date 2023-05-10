@@ -1,0 +1,2 @@
+# sensoryminds
+bingo app
